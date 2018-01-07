@@ -1,4 +1,5 @@
-# The-Fruit-Rage game implemented using minimax algorthim with alpha beta pruning
+# The-Fruit-Rage 
+## This game is implemented using minimax algorthim with alpha beta pruning
 
 The	Fruit	Rage	is	a	two	player	game	in	which	each	player	tries	to	maximize	his/her	share	from	a	
 batch of	fruits randomly	placed	in	a	box.	The	box	is	divided	into	cells	and	each	cell	is	either	empty	
